@@ -2,6 +2,14 @@
 """
 Created on Fri Sep  8 23:40:24 2017
 
+***It dumps the english words to odia meanings(separated in case a word has more than a odia meaning) and its POS tag
+It has been implemented using the syntax tree data structure for python
+So the output is not in human readable format
+There is a file  eng_odia.txt which has a human readable format of this output.
+But this kind of dumping helps in very fast retrieval and thus accessing time 
+is very less making it viable for machine translation.***
+
+
 @author: embis
 """
 import cPickle
