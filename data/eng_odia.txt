@@ -1,0 +1,79 @@
+going:  ପ୍ରସ୍ଥାନ: Ns
+gold:  ସୁନା: Ns
+golden jubilee:  ସ୍ୱର୍ଣ_ଜୟଂତୀ: Ns
+golden:  ସୁନେଲି: Adj
+golf:  ଗୋଲ୍ଫ{ଏକ_ପ୍ରକାରର_ଖେଳ}: Ns
+gong:  ଘଂଟା: Ns
+good:  ଆଚ୍ଛା_ଭଲ: Adj
+goodbye:  ବିଦାୟ: Ns
+goods:  ଜିନିସ: Ns
+gore:  ଜମାଟ_ବାନ୍ଧିଥିବା_ରକ୍ତ: Ns
+gorge:  ସଂକୀର୍ଣ୍ଣ_ଘାଟୀ: Ns
+gorgeous:  ଜାକଜମକ_ପୂର୍ଣ୍ଣ: Adj
+gorilla:  ବଣ_ମଣିଷ: Ns
+gory:  ରକ୍ତମୟ: Adj
+gospel:  ଈସା-ଧର୍ମ{ବେଦ_ବାକ୍ୟ}: Ns
+gossip:  ଚୁଗୁଲି: Ns
+gouge:  ଖୋଲ_ବଟାଳିଦ୍ୱାରା_ଗୋଲାକାର_ଛିଦ୍ର_କରିବା: V
+gouged out:  ଛେଦକରି_ବାହାର_କରିବା: PhrV
+govern:  ରାଜ୍ୟଶାସନ_କରିବା: V
+governance:  ଶାସନ: Ns
+high school:  ଉଚ୍ଚ_ବିଦ୍ୟାଳୟ: Ns
+high seas:  ମହାସାଗର: Ns
+high season:  ବ୍ୟସ୍ତ_ସମୟ: Ns
+high sounding:  ଆଡମ୍ବରପୂର୍ଣ୍ଣ: Adj
+high speed:  ତୀବ୍ର_ଗତି: Adj
+high spirited:  ସାହସୀ: Adj
+high spot:  ଘଟନାର_ବିଶଷ୍ଟ_ଅଂଗ: Ns
+high street:  ମୁଖ୍ୟ_ମାର୍ଗ: Ns
+high strung:  ଅତି_ସଂବେଦନଶୀଳ: Adj
+high table:  ଉଚ୍ଚ_ମଂଚର_ମେଜ: Ns
+high tea:  ମଧ୍ୟାହ୍ନର_ଅନ୍ତ_ଓ_ସନ୍ଧ୍ୟାର_ପ୍ରଥମ_ଚା’_ନେବା: Ns
+high technology:  ଉଚ୍ଚ_ପ୍ରୌଦ୍ୟୋଗି:Ns
+annotate:  ଟିପ୍ପଣୀ_କରିବା ଟୀକାକରି_ବୁଝେଇବା: VT
+announce:  ଘୋଷଣା: VT
+announcement:  ବିଜ୍ଞାପନ: Ns
+announcer:  ଉଦ୍ଘୋଷକ: Ns
+annoy:  ଚିଡ଼େଇବା: VT
+annoyance:  କଷ୍ଟ: Ns
+annual:  ବାର୍ଷିକ: Adj
+annualized:  ବର୍ଷରେ_ଥରୁଟିଏ: Adj
+annually:  ବର୍ଷରେ_ଥରେ: Adv
+congestion:  ପୂରି_ରହିବା: Ns
+conglomerate:  ସଂପୀଡ଼ନ: Ns
+congratulate:  ବଧା-ଦେବା: VT
+congratulation:  ଅଭିନନ୍ଦନ: Ns
+congregate:  ଏକତ୍ର_ହୋଇଯିବା: V
+congregation:  ଧାର୍ମିକ_ସଭା: Ns
+congress:  ବ୍ୟବସ୍ଥାପିକା_ସଭା: Ns
+congruent:  ସମରୂପ: Adj
+conifer:  ଶଂକୁବୃକ୍ଷ: Ns
+coniferous:  ଶଂକୁଧାରୀ: Adj
+conjecture:  ଅନୁମାନ: Ns
+conjugal:  ବିବାହ_ସଂବନ୍ଧୀ ବୈବାହିକ: Adj
+conjunction:  ସଂଯୋଗ ମେଳ: Ns
+conjure:  ଜାଦୁ_କରିବା: V
+connect:  ଯୋଡ଼ିବା: VT
+connection:  ଜୋଡ଼: Ns
+eloquence:  ବାଗ୍ମୀତା: Ns
+eloquent:  ସୁବକ୍ତା: Adj
+else:  ଆଉ_କିଏ: Adv
+elsewhere:  ଆଉ_କେଉଁଠି: Adv
+elude:  ହାତରେ_ନ_ପଡ଼ିବା ଠକେଇ_ଦେଇ_ଚମ୍ପଟ_ମାରିବା_: VT
+emaciated:  ଦୁର୍ବଳ କୃଶ କ୍ଷୀଣ: Adj
+emanate:  ବାହାରିବା ଉତ୍ପନ୍ନ_ହୋଇଯିବା: VI
+embankment:  ବନ୍ଧ_ବାନ୍ଧିବା: Ns
+embark:  ଚଢ଼ିବା[ଚଢ଼େଇବା]: VTI
+embarrass:  ଅସୁବିଧାରେରେ_ପକେଇବା: VT
+embassy:  ରାଜଦୂତାବାସ: Ns
+embattled:  ଅସୁବିଧାର_ଘେରରେ: Adj
+embellish:  ଠିକ୍‌ଠାକ୍_କରିବା_ସମ୍ଭାଳି_ନେବା: VT
+embezzle:  ରାଜସ୍ୱ_ଆତ୍ମସାତ_କରିବା: VT
+embitter:  ତିକ୍ତତା_ସୃଷ୍ଟି_କରିବା: VT
+emblazon:  ଅଳଂକରଣ_କରିବା: VT
+emblem:  ଚିହ୍ନ: Ns
+emblematic:  ଦ୍ୟୋତକ: Adj
+embody:  ସାକାର_କରିବା: VT
+embolden:  ସାହସ_ଦେବା: VT
+emboss:  _(ପଥର_କାଠ_ଆଦିରେ)_ଖୋଦନ_କରି_ଲେଖିବା_ଆଙ୍କିବା: VT
+embrace:  ଆଲିଂଗନ: Ns
