@@ -28,5 +28,5 @@ If you are facing error related to java, update jdk
 - Start StanfordCoreNLP server(Description provided above)
 - Go to folder `sentence_trnsform`
 - Open the file `verb_extract1.py`
-- Run the file to see output
+- Run the file to see output  
 Example  ![txt](https://raw.githubusercontent.com/ujjaldas1997/English_Odia-Translation/master/screenshot.jpg)
