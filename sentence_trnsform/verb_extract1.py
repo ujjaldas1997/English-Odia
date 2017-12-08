@@ -12,10 +12,10 @@ from present_tense import get_verb as get_present_verb
 from bibhakti import bibhakti
 from phonetics import phonetics
 import re
-inpt='We congratulate on your anniversary'
-print inpt
+inpt='I am going to school with rama'
+#print inpt
 l,sen_tag= reorder(inpt)
-print l
+#print l
 #print 222
 output = [l[0]]
 for item in l:
