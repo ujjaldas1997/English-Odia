@@ -31,3 +31,10 @@ If you are facing error related to java, update jdk
 - Run the file to see output  
 Example  ![txt](https://raw.githubusercontent.com/ujjaldas1997/English_Odia-Translation/master/screenshot.jpg)  
 P.S. - This currently supports simple sentence of declarative and interrogative type.
+## Members
+- Millennium Bismay [@millennium16](https://github.com/millennium16)
+- Jijnasa Nayak [@jijnasa](https://github.com/jijnasa)
+- Akankshya Patra [@Ayesha-18](https://github.com/Ayesha-18)
+- Pratyush Gaurav Jagaty [@pratyushjagaty](https://github.com/pratyushjagaty)
+- Chinmay Kumar Rout [@chinmayrout1997](https://github.com/chinmayrout1997)  
+P.S - *Many many thanks to the contributers of this projects*
